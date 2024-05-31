@@ -1,2 +1,2 @@
-# IN5CV-Proyecto-Kinal-2024
-proyecto
+# IN5CV-Proyecto-superKinal2024
+Proyecto Implentando JavaFX, JDBC
