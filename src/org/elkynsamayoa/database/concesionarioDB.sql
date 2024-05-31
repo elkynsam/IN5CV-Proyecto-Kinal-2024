@@ -62,3 +62,5 @@ create table Facturas(
 	constraint FK_Facturas_Carros foreign key Facturas(carroId)
         references Carros(carroId)
 );
+
+set global time_zone = '-6:00';
